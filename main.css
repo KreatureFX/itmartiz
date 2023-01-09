@@ -1,0 +1,9 @@
+.light-bg {
+  background: #A6B8C1;
+}
+.light-bg a:hover {
+  color: aqua;
+}
+.light-bg a {
+  cursor: pointer;
+}/*# sourceMappingURL=main.css.map */
